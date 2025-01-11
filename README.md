@@ -70,16 +70,7 @@ Improper waste segregation remains a global challenge, resulting in inefficient 
 ## Conclusion
 This project demonstrates that machine learning can significantly enhance the efficiency of waste classification, reducing errors and minimizing manual intervention. Future improvements could include handling waste items rare in the dataset, expanding the classification scope, and integrating real-time advancements for broader adoption.
 
-## How to Run the Project
 
-1. Clone the repository.
-2. Install the required dependencies using the command:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter notebook or Python script provided in the repository.
-4. Follow the instructions in the notebook to preprocess data, train models, and evaluate results.
 
----
 Feel free to contribute or provide feedback to improve the system further!
 
